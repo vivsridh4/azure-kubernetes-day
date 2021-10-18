@@ -8,7 +8,7 @@ In this conference, we plan to cover the basics to advance Kubernetes so that de
 
 Coming Soon!
 
-## Reactor Kubernetes Day - Content & Skilling Challenge
+## Content & Cloud Skills Challenge
 
 Coming Soon!
 
