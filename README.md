@@ -4,13 +4,29 @@ By 2022, more than 75% of global organizations will be running containerized app
 
 In this conference, we plan to cover the basics to advance Kubernetes so that developers/ DevOps engineers can get started &amp; as well upskill. 
 
-Join the conversation - [RSVP here](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
+Join the conversation - [**RSVP here**](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
 
-## Azure Kuberbetes Day - Schedule 
+## [Cloud Skills Challenge](https://docs.microsoft.com/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_#AzureHappyHours_webinar_reactor)
+
+Complete this workshop to become an expert on Azure Kubernetes Service - [Workshop Link](https://docs.microsoft.com/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_#AzureHappyHours_webinar_reactor)
+
+## Azure Kuberbetes Day - Agenda
+
+Session hosted by: [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar)
+
+
+|     Time     |    Talks   | Speaker | 
+|     ---    | ---          | ---     |
+| 10:00 AM   |  Azure Kubernetes Service Workshop | [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar) |
+| 11:00 AM   | Bridge to Kubernetes - debug code locally |  [Reenu Grewal Saluja, Commercial Software Engineering, Cloud architect, Keynote Speaker](https://www.linkedin.com/in/reenusaluja/) |
+| 11:50 AM  | Fireside chat with Vishal Biyani on Kubernetes Best Practices, Challenges, roles & responsibilities and more  |  [Vishal Biyani, Founder & CTO InfraCloud Technologies](https://www.linkedin.com/in/vishalbiyani/) |
+| 12:30 PM  | Deploying a machine learning model in Azure Container Apps, ACI, AKS |  [Ambarish Ganguly, Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
+
+## On-Demand Content
 
 Coming Soon!
 
-## Content & Cloud Skills Challenge
+## Azure Kubernetes Service - Hacks
 
 Coming Soon!
 
