@@ -6,9 +6,9 @@ In this conference, we plan to cover the basics to advance Kubernetes so that de
 
 Join the conversation - [**RSVP here**](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
 
-## [Cloud Skills Challenge](https://docs.microsoft.com/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_#AzureHappyHours_webinar_reactor)
+## [Cloud Skills Challenge!](https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor)
 
-Complete this workshop to become an expert on Azure Kubernetes Service - [Launch Workshop](https://docs.microsoft.com/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_#AzureHappyHours_webinar_reactor)
+Complete this workshop to become an expert on Azure Kubernetes Service - [Launch Workshop](https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor)
 
 ## Azure Kuberbetes Day - Agenda
 
