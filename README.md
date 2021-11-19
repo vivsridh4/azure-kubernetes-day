@@ -8,7 +8,7 @@ Join the conversation - [**RSVP here**](https://www.meetup.com/microsoft-reactor
 
 ## [Cloud Skills Challenge](https://docs.microsoft.com/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_#AzureHappyHours_webinar_reactor)
 
-Complete this workshop to become an expert on Azure Kubernetes Service - [Workshop Link](https://docs.microsoft.com/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_#AzureHappyHours_webinar_reactor)
+Complete this workshop to become an expert on Azure Kubernetes Service - [Launch Workshop](https://docs.microsoft.com/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_#AzureHappyHours_webinar_reactor)
 
 ## Azure Kuberbetes Day - Agenda
 
