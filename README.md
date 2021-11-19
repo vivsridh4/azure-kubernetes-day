@@ -1,4 +1,4 @@
-# [27th Nov | Azure Kuberbetes Day](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
+# [27th Nov | Azure Kubernetes Day](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
 
 By 2022, more than 75% of global organizations will be running containerized applications in production, according to Gartner, and Kubernetes is shaping the future of app development and management - and the Reactor team wants to help you get started &amp; also upskill with it today.  
 
@@ -10,7 +10,7 @@ Join the conversation - [**RSVP here**](https://www.meetup.com/microsoft-reactor
 
 Complete this workshop to become an expert on Azure Kubernetes Service - [Launch Workshop](https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor)
 
-## Azure Kuberbetes Day - Agenda
+## Azure Kubernetes Day - Agenda
 
 Session hosted by: [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar)
 
