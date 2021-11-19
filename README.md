@@ -19,7 +19,7 @@ Session hosted by: [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering
 
 |     Time     |    Talks   | Speaker | 
 |     ---    | ---          | ---     |
-| 10:00 AM   |  Azure Kubernetes Service Workshop | [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar) |
+| 10:00 AM   |  Azure Kubernetes Service workshop | [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar) |
 | 11:00 AM   | Bridge to Kubernetes - debug code locally |  [Reenu Grewal Saluja, Commercial Software Engineering, Cloud architect, Keynote Speaker](https://www.linkedin.com/in/reenusaluja/) |
 | 11:50 AM  | Fireside chat with Vishal Biyani on Kubernetes best practices, challenges, roles & responsibilities and more  |  [Vishal Biyani, Founder & CTO InfraCloud Technologies](https://www.linkedin.com/in/vishalbiyani/) |
 | 12:30 PM  | Deploying a machine learning model in Azure Container Apps, ACI, AKS |  [Ambarish Ganguly, Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
