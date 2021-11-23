@@ -28,6 +28,7 @@ Session hosted by: [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering
 
 [<img src="https://drive.google.com/thumbnail?id=1QH-lGsaYvXberKVvUb9HryaC_aBtvBSa" width="30%"/>](https://www.elastic.co/)
 [<img src="https://drive.google.com/thumbnail?id=1980Ts1KWEtmEPwpfzcMXeKS0260NQwAk" width="30%"/>](https://www.azdev.community/)
+[<img src="https://drive.google.com/thumbnail?id=1C3E2cZPujgwfvhbGGZBvtJhJdW5gPZLQ" width="15%"/>](sodafoundation.io)
 
 ## On-Demand Content
 
