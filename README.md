@@ -24,6 +24,11 @@ Session hosted by: [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering
 | 11:50 AM  | Fireside chat with Vishal Biyani on Kubernetes best practices, challenges, roles & responsibilities and more  |  [Vishal Biyani, Founder & CTO InfraCloud Technologies](https://www.linkedin.com/in/vishalbiyani/) |
 | 12:30 PM  | Deploying a machine learning model in Azure Container Apps, ACI, AKS |  [Ambarish Ganguly, Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
 
+## Community Partners
+
+[<img src="https://drive.google.com/thumbnail?id=1QH-lGsaYvXberKVvUb9HryaC_aBtvBSa" width="30%"/>](https://www.elastic.co/)
+[<img src="https://drive.google.com/thumbnail?id=1980Ts1KWEtmEPwpfzcMXeKS0260NQwAk" width="30%"/>](https://www.azdev.community/)
+
 ## On-Demand Content
 
 Coming Soon!
