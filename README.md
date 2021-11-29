@@ -12,7 +12,7 @@ Join the conversation :point_right: [**RSVP here**](https://www.meetup.com/micro
 
 Complete this workshop to become an expert on Azure Kubernetes Service  :point_right:  [Launch Workshop](https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor)
 
-## [Resources]((https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor))
+## [Resources](https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor)
 
 :link: [phippy goes to the zoo - pdf](https://azure.microsoft.com/resources/phippy-goes-to-the-zoo/?wt.mc_id=github_#AzureHappyHours_webinar_reactor)<br>
 :link: [Kubernetes Basics by Brendan Burns](https://youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)<br>
@@ -21,7 +21,7 @@ Complete this workshop to become an expert on Azure Kubernetes Service  :point_r
 :link: [ToDo App - with Azure Kubernetes Service + Terraform + GitHub Action](https://github.com/vivsridh4/todo-app)<br>
 :link: [Getting started with Bridge to Kubernetes - debug code locally](https://docs.microsoft.com/visualstudio/bridge/bridge-to-kubernetes-aks/?wt.mc_id=github_14774_webinar_reactor)
 
-## Azure Kubernetes Day - Agenda
+## [Azure Kubernetes Day - Agenda](https://www.meetup.com/microsoft-reactor-bengaluru/events)
 
 Session hosted by: [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar)
 
@@ -33,7 +33,7 @@ Session hosted by: [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering
 | 11:50 AM  | Fireside chat with Vishal Biyani on Kubernetes best practices, challenges, roles & responsibilities and more  |  [Vishal Biyani, Founder & CTO InfraCloud Technologies](https://www.linkedin.com/in/vishalbiyani/) |
 | 12:30 PM  | Deploying a machine learning model in Azure Container Apps, ACI, AKS |  [Ambarish Ganguly, Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
 
-## Community Partners
+## [Community Partners](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
 
 [<img src="https://drive.google.com/thumbnail?id=1QH-lGsaYvXberKVvUb9HryaC_aBtvBSa" width="30%"/>](https://www.elastic.co/) </n>
 [<img src="https://drive.google.com/thumbnail?id=1980Ts1KWEtmEPwpfzcMXeKS0260NQwAk" width="30%"/>](https://www.azdev.community/)</n>
