@@ -21,7 +21,7 @@ Complete this workshop to become an expert on Azure Kubernetes Service  :point_r
 :link: [ToDo App - with Azure Kubernetes Service + Terraform + GitHub Action](https://github.com/vivsridh4/todo-app)<br>
 :link: [Getting started with Bridge to Kubernetes - debug code locally](https://docs.microsoft.com/visualstudio/bridge/bridge-to-kubernetes-aks/?wt.mc_id=github_14774_webinar_reactor)
 
-For more kubernetes on Azure content - [Access here](https://github.com/microsoft/monthlyresources/tree/main/2021-10_Oct_Kubernetes%20on%20Azure)
+For more kubernetes on Azure content :point_right: [Click here](https://github.com/microsoft/monthlyresources/tree/main/2021-10_Oct_Kubernetes%20on%20Azure)
 
 ## [Azure Kubernetes Day - Agenda](https://www.meetup.com/microsoft-reactor-bengaluru/events)
 
