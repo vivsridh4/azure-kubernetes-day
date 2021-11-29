@@ -4,13 +4,13 @@ By 2022, more than 75% of global organizations will be running containerized app
 
 In this conference, we plan to cover the basics to advance Kubernetes so that developers/ DevOps engineers can get started &amp; as well upskill. 
 
-Join the conversation - [**RSVP here**](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
+Join the conversation :point_right: [**RSVP here**](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
 
 ## [Cloud Skills Challenge!](https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor)
 
 ###
 
-Complete this workshop to become an expert on Azure Kubernetes Service - [Launch Workshop](https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor)
+Complete this workshop to become an expert on Azure Kubernetes Service  :point_right:  [Launch Workshop](https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor)
 
 ## Azure Kubernetes Day - Agenda
 
@@ -31,9 +31,9 @@ Session hosted by: [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering
 [<img src="https://drive.google.com/thumbnail?id=1MmediVGpzrzPa6EYsn-prS-_BhdPOETs" width="15%"/>](https://sodafoundation.io/) </n>
 [<img src="https://drive.google.com/thumbnail?id=1OyL2N0utiQm98UfpDhgRpgbaqMzr8Iot" width="15%"/>](https://linktr.ee/opincocommunity)
 
-## On-Demand Content
+## [On-Demand Content](https://www.youtube.com/watch?v=kyOuxGZQcgI&t=3021s)
 
-Coming Soon!
+All sessions are now available on-demand on Microsoft Reactor YouTube channel and you can access here :point_right: [recording](https://www.youtube.com/watch?v=kyOuxGZQcgI&t=3021s)
 
 ## Azure Kubernetes Service - Hacks
 
