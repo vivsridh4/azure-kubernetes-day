@@ -14,11 +14,12 @@ Complete this workshop to become an expert on Azure Kubernetes Service  :point_r
 
 ## [Resources]((https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor))
 
+:link: [phippy goes to the zoo - pdf](https://azure.microsoft.com/resources/phippy-goes-to-the-zoo/?wt.mc_id=github_#AzureHappyHours_webinar_reactor)<br>
 :link: [Kubernetes Basics by Brendan Burns](https://youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)<br>
 :link: [Azure Kubernetes Service workshop with sandbox](https://docs.microsoft.com/en-us/learn/challenges?id=bbfc2659-2dd2-4b5c-b311-9925bc68449e&wt.mc_id=github_14774_webinar_reactor)<br>
-:link: [phippy goes to the zoo - pdf](https://azure.microsoft.com/resources/phippy-goes-to-the-zoo/?wt.mc_id=github_#AzureHappyHours_webinar_reactor)<br>
 :link: [Code to deploy app on ACI, Azure Container Apps & Azure Kubernetes Service](https://github.com/ambarishg/recipe-deployment-microservices-containers)<br>
-:link: [ToDo App - with Azure Kubernetes Service + Terraform + GitHub Action](https://github.com/vivsridh4/todo-app)
+:link: [ToDo App - with Azure Kubernetes Service + Terraform + GitHub Action](https://github.com/vivsridh4/todo-app)<br>
+:link: [Getting started with Bridge to Kubernetes - debug code locally](https://docs.microsoft.com/visualstudio/bridge/bridge-to-kubernetes-aks/?wt.mc_id=github_14774_webinar_reactor)
 
 ## Azure Kubernetes Day - Agenda
 
